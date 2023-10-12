@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything and everything**
 
-- 📫 How to reach me **ObsoleteAccount@gmail.com**
+- 📫 How to reach me **2005cookedcarrots@gmail.com**
 
 - ⚡ Fun fact **I'm ~soso smart**
 
