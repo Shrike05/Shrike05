@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My github page](https://github.com/Shrike05)
 
-- 🌱 I’m currently learning **Rust my beloved**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shrike05](https://github.com/Shrike05)
 
