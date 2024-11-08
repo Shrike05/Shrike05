@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Rust**
 
+-  Member of the M10AI assosiation
+
 - 👨‍💻 All of my projects are available at [https://github.com/Shrike05](https://github.com/Shrike05)
 
 - 📫 How to reach me **2005cookedcarrots@gmail.com**
