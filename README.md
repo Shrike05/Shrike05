@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shrike</h1>
 <h3 align="center">An idiot disguised as a genius</h3>
 
-- 🔭 I’m currently working on [My github page](https://github.com/Shrike05)
+- 🔭 I’m currently working on an implementation of a machine learning library in Rust
 
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shrike05](https://github.com/Shrike05)
 
-- 📝 I regularly write articles in [my mind](my mind)
-
-- 💬 Ask me about **Anything and everything**
-
 - 📫 How to reach me **2005cookedcarrots@gmail.com**
-
-- ⚡ Fun fact **I'm ~soso smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
