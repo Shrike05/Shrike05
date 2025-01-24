@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an implementation of a machine learning library in Rust
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Machine Learning and Rust**
 
 -  Member of the M10AI assosiation
 
