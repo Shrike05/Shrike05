@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Rust**
 
--  Member of the M10AI assosiation
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shrike05](https://github.com/Shrike05)
 
 - 📫 How to reach me **shariqsyedali05@gmail.com**
