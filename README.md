@@ -1,3 +1,5 @@
+[![Shrikes's GitHub stats](https://github-stats-extended.vercel.app/api?username=shrike05)](https://github.com/stats-organization/github-stats-extended)
+
 <h1 align="center">Hi 👋, I'm Shariq Ali</h1>
 <h3 align="center">Machine learning enthusiast disguised as a computer science student</h3>
 
